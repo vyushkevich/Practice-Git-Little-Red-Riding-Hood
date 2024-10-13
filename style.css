@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin: 20px;
+}
+
+.center-image {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+}
